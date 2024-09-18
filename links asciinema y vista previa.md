@@ -1,3 +1,5 @@
+# links
+[![asciicast](https://asciinema.org/a/zLf6XVX1BKoG2lnGqetVdPx9D.svg)](https://asciinema.org/a/zLf6XVX1BKoG2lnGqetVdPx9D)
 # Ejercicio 1
 ```Erlang
 %------------------------------------------------------------------------------
